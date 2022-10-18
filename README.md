@@ -1,1 +1,2 @@
 # odin-recipes
+Hi everyone, this project is to create a recipes page and show my skills in creating my first project. Hopefully I can continue learning and increasing my knowledge with terminal, git and html coding.
